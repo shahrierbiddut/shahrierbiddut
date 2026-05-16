@@ -1,10 +1,14 @@
 <!-- Profile README for Shahrier Hossain Biddut -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#00F7FF;">Shahrier Hossain Biddut</span></h1>
+<!-- 🌌 Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shahrier%20Hossain%20Biddut&fontSize=40&fontColor=00F7FF&fontAlignY=35&animation=fadeIn" alt="Gradient Banner"/>
+</p>
+
 <h3 align="center">🎨 Frontend Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Competitive+Programmer;Always+Learning+New+Tech;shahrierbiddut" alt="Typing Animation" />
 </p>
 
 <p align="right">
@@ -40,35 +44,35 @@
 <p align="center">
 
 ### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<a><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
 
 ### 🎨 CSS Frameworks & Libraries  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+<a><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white"/></a>
 
 ### ⚙️ JavaScript Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/></a>
 
 ### 🗄️ Database & Model  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
 
 ### 🚀 Deployment Platform  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+<a><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
 
 ### 🧰 Tools & Technologies  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-1E90FF?style=flat&logo=react&logoColor=white)
+<a><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Antigravity-1E90FF?style=flat&logo=react&logoColor=white"/></a>
 </p>
 
 ---
@@ -85,4 +89,25 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shahrierbiddut&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📂 My Projects
+
+<p align="center">
+  <a href="https://cholo-trips.vercel.app/" target="_blank">
+    <img src="https://i.ibb.co.com/xtWSbpsd/cholotrips.jpg" alt="CholoTrips Screenshot" width="400"/>
+  </a>
+</p>
+
+### 🔹 CholoTrips
+A travel booking and tourism platform built with **Next.js, TailwindCSS, MongoDB, and Vercel**.  
+👉 [Live Demo](https://cholo-trips.vercel.app/) | [Source Code](https://github.com/shahrierbiddut/cholotrips)
+
+---
+
+<!-- 🌌 Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
