@@ -1,8 +1,8 @@
-<!-- Profile README for Shahrier Hossain Biddut -->
+<!-- Profile README for Md Shahrier Hossain Biddut -->
 
 <!-- 🌌 Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%Shahrier%20Hossain%20Biddut&fontSize=40&fontColor=00F7FF&fontAlignY=35&animation=fadeIn" alt="Gradient Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Shahrier%20Hossain%20Biddut&fontSize=40&fontColor=00F7FF&fontAlignY=35&animation=fadeIn" alt="Gradient Banner"/>
 </p>
 
 <h3 align="center">🎨 Frontend Developer | Tech Explorer</h3>
@@ -33,7 +33,7 @@
 ---
 
 ### 🧑‍💻 About Me
-👋 Hi, I’m **Shahrier Hossain Biddut**  
+👋 Hi, I’m **Md Shahrier Hossain Biddut**  
 🎓 Completed **B.Sc. in Computer Science and Engineering**  
 🖥️ Building modern UIs with **React.js, Next.js, Tailwind CSS**  
 🗄️ Backend with **Node.js, Express.js, MongoDB**  
@@ -52,6 +52,7 @@
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/></a>
 
 ### 🎨 CSS Frameworks & Libraries  
 <a><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/></a>
