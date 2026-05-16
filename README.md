@@ -2,7 +2,7 @@
 
 <!-- 🌌 Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shahrier%20Hossain%20Biddut&fontSize=40&fontColor=00F7FF&fontAlignY=35&animation=fadeIn" alt="Gradient Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%Shahrier%20Hossain%20Biddut&fontSize=40&fontColor=00F7FF&fontAlignY=35&animation=fadeIn" alt="Gradient Banner"/>
 </p>
 
 <h3 align="center">🎨 Frontend Developer | Tech Explorer</h3>
@@ -24,6 +24,9 @@
   </a>
   <a href="https://www.facebook.com/shahrier.hossain.biddut" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/01738803106" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -78,10 +81,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrierbiddut&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shahrierbiddut&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrierbiddut&theme=tokyonight" alt="GitHub Streak" />
+<p align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrierbiddut&layout=compact&theme=radical&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahrierbiddut&show_icons=true&theme=radical&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrierbiddut&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
