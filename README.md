@@ -52,7 +52,6 @@
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/></a>
 
 ### 🎨 CSS Frameworks & Libraries  
 <a><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/></a>
@@ -85,7 +84,7 @@
 <p align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrierbiddut&layout=compact&theme=radical&v=2" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=shahrierbiddut&show_icons=true&theme=radical&count_private=true&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrierbiddut&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrierbiddut&theme=radical&v=2" alt="GitHub Streak" />
 </p>
 
 ---
