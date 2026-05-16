@@ -110,7 +110,7 @@ A travel booking and tourism platform built with **Next.js, TailwindCSS, MongoDB
 
 ---
 
-<!-- 🌌 Gradient Footer -->
+<!-- 🌌 Gradient Footer with Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Crafted%20with%20❤️%20by%20Md%20Shahrier%20Hossain%20Biddut&fontSize=20&fontColor=00F7FF" alt="Footer Banner"/>
 </p>
