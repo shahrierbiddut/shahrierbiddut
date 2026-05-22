@@ -104,9 +104,15 @@
   </a>
 </p>
 
-### 🔹 CholoTrips
+### 🔹 CholoTrips  
 A travel booking and tourism platform built with **Next.js, TailwindCSS, MongoDB, and Vercel**.  
 👉 [Live Demo](https://cholo-trips.vercel.app/) | [Source Code](https://github.com/shahrierbiddut/cholotrips)
+
+---
+
+### 🌐 Portfolio  
+🚀 Check out my personal portfolio:  
+👉 [biddutprotfolio.vercel.app](https://biddutprotfolio.vercel.app)
 
 ---
 
