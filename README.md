@@ -28,6 +28,9 @@
   <a href="https://wa.me/qr/WYIBBSODTPF4E1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://sites.google.com/d/1XpR5L9xiy1cXDck3AN0jYkpI1jHwKiCd/p/1dajcHxf3ty08bctaZcqcSkPBtmiMRWFD/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -81,9 +84,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrierbiddut&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shahrierbiddut&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrierbiddut&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrierbiddut&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahrierbiddut&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahrierbiddut&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -96,12 +99,14 @@
 ---
 
 ### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahrierbiddut&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahrierbiddut&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
 ### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -119,11 +124,10 @@ A travel booking and tourism platform built with **Next.js, TailwindCSS, MongoDB
 
 ---
 
+
 ### 🌐 Portfolio  
 🚀 Check out my personal portfolio:  
 👉 [biddutprotfolio.vercel.app](https://biddutprotfolio.vercel.app)
-
----
 
 <!-- 🌌 Gradient Footer with Text -->
 <p align="center">
