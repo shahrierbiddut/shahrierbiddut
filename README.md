@@ -17,22 +17,16 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahrier-hossain-biddut" target="_blank">
+  <a href="https://www.linkedin.com/in/shahrier-hossain-biddut-3b847528a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shahrierbiddut" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://biddutprotfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.facebook.com/shahrier.hossain.biddut" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://wa.me/qr/WYIBBSODTPF4E1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://sites.google.com/d/1XpR5L9xiy1cXDck3AN0jYkpI1jHwKiCd/p/1dajcHxf3ty08bctaZcqcSkPBtmiMRWFD/edit" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>
 
@@ -126,4 +120,12 @@ A travel booking and tourism platform built with **Next.js, TailwindCSS, MongoDB
 ---
 
 ### 🌐 Portfolio  
-🚀 Check out my personal portfolio
+🚀 Check out my personal portfolio:  
+👉 [biddutprotfolio.vercel.app](https://biddutprotfolio.vercel.app)
+
+---
+
+<!-- 🌌 Gradient Footer with Text -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Crafted%20with%20❤️%20by%20Md%20Shahrier%20Hossain%20Biddut&fontSize=20&fontColor=00F7FF" alt="Footer Banner"/>
+</p>
